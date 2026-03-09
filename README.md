@@ -9,7 +9,6 @@ Allows you to create passwords of any length containing letters, numbers and spe
 
 ## Installation
 Clone the repository:
-'''bash
 git clone https://github.com/soluna-moon/password-generator.git
 
 ## Author
